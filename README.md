@@ -13,5 +13,6 @@ Create and manage a virtual environment :
       _pip install -r requirements.txt_
       
   3. **Executing the specific test file in the repository** : Now that we have the virtual environment created and set up for the project, we are ready to execute any or all individual test files present in the repository. There are a couple of ways in which we can do this as below 
-      1 . **Run a particular file** : _pytest -v -s /path/to/test_file.py_
-      2 . **Run all files in the repo** : _pytest -v -s_ 
+  
+      1. **Run a particular file** : _pytest -v -s /path/to/test_file.py_
+      2. **Run all files in the repo** : _pytest -v -s_ 
