@@ -1,0 +1,3 @@
+###requirements without version number###
+selenium
+pytest
